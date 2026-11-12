@@ -27,11 +27,11 @@ def es_par(numero):
 
     # Pista: Utiliza el operador módulo (%) -> numero % 2 == 0}
     if numero % 2 == 0 :
-        print("true")
-        return ("tu resultado es verdadero")
+        print("tu resultado es verdadero el numero es par ")
+        return 
     else:
-        print("false")
-        return ("tu resultado es falso ")
+        print ("tu resultado es falso el numero es impar  ")
+        return 
 
 
     
